@@ -7,7 +7,7 @@ function Header() {
     <>
       <div className="col-md-12 header bg-danger d-flex justify-content-around">
         <div className="logo">
-          <Link to="/">Logo </Link>
+          <Link to="/">Logo</Link>
         </div>
         <div className="cart-logo ">
           <Link to="/cartList">
